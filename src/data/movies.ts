@@ -231,6 +231,116 @@ export const movies: Movie[] = [
     poster: "https://images.unsplash.com/photo-1506466010722-395aa2bef877?w=400&h=600&fit=crop",
     director: "Peter Jackson",
     cast: ["Elijah Wood", "Ian McKellen", "Viggo Mortensen"]
+  },
+  {
+    id: 21,
+    title: "The Social Network",
+    genre: ["Biography", "Drama"],
+    overview: "The story of Facebook's founding and the legal battles that followed. A tale of ambition, betrayal, and the cost of success in Silicon Valley.",
+    rating: 7.8,
+    year: 2010,
+    poster: "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=400&h=600&fit=crop",
+    director: "David Fincher",
+    cast: ["Jesse Eisenberg", "Andrew Garfield", "Justin Timberlake"]
+  },
+  {
+    id: 22,
+    title: "Mad Max: Fury Road",
+    genre: ["Action", "Adventure", "Sci-Fi"],
+    overview: "In a post-apocalyptic wasteland, Max teams up with Furiosa to flee from a tyrannical warlord and his army. A high-octane chase across the desert.",
+    rating: 8.1,
+    year: 2015,
+    poster: "https://images.unsplash.com/photo-1504893524553-b855bce32c67?w=400&h=600&fit=crop",
+    director: "George Miller",
+    cast: ["Tom Hardy", "Charlize Theron"]
+  },
+  {
+    id: 23,
+    title: "The Grand Budapest Hotel",
+    genre: ["Adventure", "Comedy", "Crime"],
+    overview: "A legendary concierge and his trusted lobby boy become embroiled in a murder mystery at a famous European hotel between the wars.",
+    rating: 8.1,
+    year: 2014,
+    poster: "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=400&h=600&fit=crop",
+    director: "Wes Anderson",
+    cast: ["Ralph Fiennes", "Tony Revolori"]
+  },
+  {
+    id: 24,
+    title: "Joker",
+    genre: ["Crime", "Drama", "Thriller"],
+    overview: "A failed comedian's descent into madness as he transforms into the criminal mastermind known as the Joker. A dark character study.",
+    rating: 8.4,
+    year: 2019,
+    poster: "https://images.unsplash.com/photo-1559583109-3e7968136c99?w=400&h=600&fit=crop",
+    director: "Todd Phillips",
+    cast: ["Joaquin Phoenix", "Robert De Niro"]
+  },
+  {
+    id: 25,
+    title: "Arrival",
+    genre: ["Drama", "Mystery", "Sci-Fi"],
+    overview: "A linguist is recruited by the military to communicate with alien lifeforms after mysterious spacecraft land around the world.",
+    rating: 7.9,
+    year: 2016,
+    poster: "https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?w=400&h=600&fit=crop",
+    director: "Denis Villeneuve",
+    cast: ["Amy Adams", "Jeremy Renner"]
+  },
+  {
+    id: 26,
+    title: "Django Unchained",
+    genre: ["Drama", "Western"],
+    overview: "A freed slave teams up with a German bounty hunter to rescue his wife from a brutal plantation owner in the Deep South.",
+    rating: 8.4,
+    year: 2012,
+    poster: "https://images.unsplash.com/photo-1533073526757-2c8ca1df9f1c?w=400&h=600&fit=crop",
+    director: "Quentin Tarantino",
+    cast: ["Jamie Foxx", "Christoph Waltz", "Leonardo DiCaprio"]
+  },
+  {
+    id: 27,
+    title: "No Country for Old Men",
+    genre: ["Crime", "Drama", "Thriller"],
+    overview: "A hunter stumbles upon a drug deal gone wrong and takes a case of money, leading a relentless killer on his trail across Texas.",
+    rating: 8.2,
+    year: 2007,
+    poster: "https://images.unsplash.com/photo-1500534623283-312aade485b7?w=400&h=600&fit=crop",
+    director: "Joel Coen, Ethan Coen",
+    cast: ["Tommy Lee Jones", "Javier Bardem", "Josh Brolin"]
+  },
+  {
+    id: 28,
+    title: "La La Land",
+    genre: ["Comedy", "Drama", "Music"],
+    overview: "A jazz pianist and an aspiring actress fall in love while pursuing their dreams in Los Angeles. A modern musical masterpiece.",
+    rating: 8.0,
+    year: 2016,
+    poster: "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=400&h=600&fit=crop",
+    director: "Damien Chazelle",
+    cast: ["Ryan Gosling", "Emma Stone"]
+  },
+  {
+    id: 29,
+    title: "The Revenant",
+    genre: ["Action", "Adventure", "Drama"],
+    overview: "A frontiersman on a fur trading expedition fights for survival after being mauled by a bear and left for dead by his own hunting team.",
+    rating: 8.0,
+    year: 2015,
+    poster: "https://images.unsplash.com/photo-1418065460487-3e41a6c84dc5?w=400&h=600&fit=crop",
+    director: "Alejandro González Iñárritu",
+    cast: ["Leonardo DiCaprio", "Tom Hardy"]
+  },
+  {
+    id: 30,
+    title: "Get Out",
+    genre: ["Horror", "Mystery", "Thriller"],
+    overview: "A young African-American visits his white girlfriend's parents for the weekend, where his simmering unease about their reception leads to horrifying discoveries.",
+    rating: 7.7,
+    year: 2017,
+    poster: "https://images.unsplash.com/photo-1509248961895-40e6c23c9c12?w=400&h=600&fit=crop",
+    director: "Jordan Peele",
+    cast: ["Daniel Kaluuya", "Allison Williams"]
   }
 ];
 
